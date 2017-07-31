@@ -1,2 +1,3 @@
 # Hello-World
-First try ata repository, from Hello World Git tutorial
+First try at a repository, from Hello World Git tutorial
+Try Git from Frontend Masters course...
